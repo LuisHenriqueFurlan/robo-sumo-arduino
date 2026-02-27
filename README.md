@@ -6,7 +6,7 @@ Projeto de um robô sumô autônomo desenvolvido utilizando Arduino, Motor Shiel
 
 ## 📸 Demonstração
 
-![Robo Sumo](images/robo.jpg)
+![Robo Sumo](images/robo.png)
 
 ---
 
